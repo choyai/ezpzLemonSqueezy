@@ -27,7 +27,7 @@ public class AnimalIntro : MonoBehaviour
         videoPlayer.url = "Assets/Movies/BearIntro.mp4";
 
         // Skip the first 100 frames.
-        videoPlayer.frame = 100;
+        //videoPlayer.frame = 100;
 
         // Restart from beginning when done.
         videoPlayer.isLooping = false;
