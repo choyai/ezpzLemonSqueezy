@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+  m_Name: Blink
+  m_EditorClassIdentifier: 
+  rootClip: {fileID: 0}
+  m_EnableSequenceCaching: 0
+  m_AssetVersion: 4
+  m_AudioResourcesDirectory: SWFConverts/
+  m_AssetData: 434147000509c804000078da8d944d48dc4014c75f62d4cd6eb6d5aedf07f1d063b160c4f6e486cde4e64d114a91eec15d115b2dc59b07736ba5979e03bd7811bc7a122f2b0978d9c042a1e84158bc098a78545beacc7b939828810ebcc99bb7bfccfbbf379355400cb7acc8a70e3a7f0efde3c3ed7eab15e1a786bfc008b77afd4d101a9381b73feb80a6397ccdf89a29067c595b5b9f5bfe54fbb8bc5acbc17b857653c553d1a1c2c32be39f5797302862058a7d9888a2394ae34ab3c8dc32c0952d0c778214746dc75043650045260095984619a1c6067b80461c68df21d42190b03963854d835255ff30845aaf3974849046d02b4b1842ed6d82ac6907aac74ca4ea149069963834339d12dee04daa6e23d49512de7ee7704656776b83fb1babeb4e412d0eb927f6e3eab04d7998936e4f14c263a3fee4e32614a24ac188ca8162a4199ec5c29ec7d90dd851e9aca9df52930ed110928525d750f1f45e26332bd9d8617d7e9449596a06e6dd7cf3c515939a3bb276b34e7d18fbeacb82b42cec4721f06e767c596d670666fe9ae2096b15d98a2e193ebbdc8d31e187172f99b9f7ddc60b2c73a6545effdd8c5f10be699efa66e989ca8504267c6fab1084174f541e2430f45b5341d85c7cac7234a152f8de39a924519493b6a437e848738973cdc79785ca21b5248672d14503e8c5f905ce259cfb70eec77900e741ec8efc0a7bfeef46e4131f77163684ebe1f8cf283dee015af3b049
+  m_GUID: c527cef0d7d968646b2494fb24c227e1
+  m_Path: SWFConverts/
+  m_IsExternalDataCollected: 1
+  m_ExternalData:
+  - m_TimelineID: 0
+    m_ObjectTypeFlags: 0000000000000000000000000000000000000000000000000000000000000000
+  m_HasNesting: 0
+  m_KeyFrames: []
+  m_AudioResources: []

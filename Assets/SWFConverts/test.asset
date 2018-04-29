@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  rootClip: {fileID: 0}
+  m_EnableSequenceCaching: 0
+  m_AssetVersion: 4
+  m_AudioResourcesDirectory: SWFConverts/
+  m_AssetData: 434147000509f501000078da7d90c90dc2301045bf139604c2be081ae0c8850240710b6921a0486c8214c0851b07ce5483c80d8906688302c0337622c2812ff9d933f33d5e044887a930b30b57cd83b7d2c83a8b1aeeba823ed7037919be7d40cac9cb922a4e547c131e769b4d1c44ab7019ad4307f3b42b6d160ee2701f8fb7eb05e52c2a5d8fc9e3d44bd46a069425e5014fcd4f9fb7e8fdbabb36d1209354265b92811b553030cb429a829d75f05014faeabaab798b8d54d491c677ac657d390bcc22b3c42c331da60b7d1152d51c4baa31ebcc06b3c96c31dbcc0eb3cbec65ff2ccce9e6e0ff17cdbde7b794b365fa00918b2eeb
+  m_GUID: 2b2d0a1586548744aaf43da3a0974ef9
+  m_Path: SWFConverts/
+  m_IsExternalDataCollected: 1
+  m_ExternalData:
+  - m_TimelineID: 0
+    m_ObjectTypeFlags: 0000000000000000
+  m_HasNesting: 0
+  m_KeyFrames: []
+  m_AudioResources: []
